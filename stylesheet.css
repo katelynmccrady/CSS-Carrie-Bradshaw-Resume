@@ -8,8 +8,8 @@ body { color: black; background-color: linen; background-color: rgba(250, 240, 2
  font-family: "DM Serif Text", serif; 
 text-indent: 20px; line-height: 1.6;
 background-image: url(ResumeBackground.png);}
-a:link {color: mediumpurple; text-decoration: none;}
-a:visited {color: hotpink; text-decoration: none;} 
+a:link {color: deepskyblue; text-decoration: none;}
+a:visited {color: magenta; text-decoration: none;} 
 a:hover {text-decoration: underline;}
 a:focus { outline: 2px solid hotpink; }
 a:active {text-decoration: underline;}
