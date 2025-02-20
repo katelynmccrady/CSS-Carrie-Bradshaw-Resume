@@ -1,0 +1,29 @@
+
+h1{ color: hotpink; font-family: "Great Vibes", serif; font-size: 60px;
+  text-indent: 10px;line-height: 1.0; }
+h3 {color: hotpink; font-size: 25px; line-height: 1.4;}
+h4 {color: mediumpurple; font-size: 20px;}
+
+body { color: black; background-color: linen; background-color: rgba(250, 240, 230, 0.9);
+ font-family: "DM Serif Text", serif; 
+text-indent: 20px; line-height: 1.6;
+background-image: url(ResumeBackground.png);}
+a:link {color: mediumpurple; text-decoration: none;}
+a:visited {color: hotpink; text-decoration: none;} 
+a:hover {text-decoration: underline;}
+a:focus { outline: 2px solid hotpink; }
+a:active {text-decoration: underline;}
+
+ul {list-style: none;}
+li { background-image: url('heart2.png');
+  background-size: 15px 15px;
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-left: 25px;}
+
+
+ #Professional-Summary p::first-letter {
+  font-size: 28px;
+  color: black;}
+
+
